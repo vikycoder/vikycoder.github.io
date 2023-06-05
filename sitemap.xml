@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>None.</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
+         <xhtml:link rel="alternate" hreflang="ml" href="Noneml/"/>
+         
+    </url>
+    <url>
+         <loc>NoneIPCamConfig/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/IPCamConfig/"/>
+         <xhtml:link rel="alternate" hreflang="ml" href="Noneml/IPCamConfig/"/>
+         
+    </url>
+    <url>
+         <loc>Nonescript_used/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/script_used/"/>
+         <xhtml:link rel="alternate" hreflang="ml" href="Noneml/script_used/"/>
+         
+    </url>
+    <url>
+         <loc>Nonevisual_diagrams/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/visual_diagrams/"/>
+         <xhtml:link rel="alternate" hreflang="ml" href="Noneml/visual_diagrams/"/>
+         
+    </url>
+</urlset>
